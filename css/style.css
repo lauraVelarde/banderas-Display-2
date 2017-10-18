@@ -1,0 +1,19 @@
+div {
+  height: 130px;
+  box-sizing: border-box;
+  width: 250px;
+}
+.yellow {
+  padding-top: 10px;
+  padding-left: 10px;
+  background-color: #F1C40F;
+  margin: 15px;
+}
+.black{
+  padding-top: 10px;
+  padding-left: 10px;
+  background-color: #1C2833;
+  margin:15px;
+  color: white;
+
+}
